@@ -2,5 +2,4 @@
 
 ########
 
-Hello just testing!
-And see what the different branches do
+This script can be used to auto install the most of the personalized linux system.
